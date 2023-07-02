@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">moneyNotes</string>
+
+
+    <string name="Daily">Daily</string>
+    <string name="Monthly">Monthly</string>
+    <string name="Calendar">Calendar</string>
+    <string name="Summary">Summary</string>
+    <string name="Notes">Notes</string>
+</resources>
